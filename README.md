@@ -6,6 +6,7 @@ I'm a Masters student in the [Department of Political Science at San Diego State
   not a sentence). Separate with " · " so the line stays scannable.
 -->
 **Interests:** `Demography` · `American Politics` · `Economics` · `Research` · `Legislative Effectiveness`
+
 **Personal:** `Chow Chows` · `Cats` · `Reading` · `Writing` · `Fitness`
 
 ## Education
