@@ -20,8 +20,10 @@ B.A. Economics, Minor in Mathematics. University of California, Los Angeles (201
   with a download button, so no extra hosting is needed.
 
   [View my CV](cv/Ardis_Zhong_CV.pdf)
--->
+
 _Coming soon._
+
+-->
 
 ## Working Papers
 
