@@ -21,7 +21,7 @@ _Coming soon._
 
 ## Education
 
-_B.A. Economics, Minor in Mathematics. University of California, Los Angeles (2016)._
+B.A. Economics, Minor in Mathematics. University of California, Los Angeles (2016).
 
 ## CV
 
