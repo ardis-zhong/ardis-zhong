@@ -32,6 +32,9 @@ _Coming soon._
   Add the PDF itself to the working-papers/ folder in this repo, then link to it
   exactly like the state-to-congress-legislators dataset link below.
 -->
+
+  - **[From Mating Gap to Fertility Gap: Decomposition of fertility rate to marriage market conditions in the U.S., 2013 to 2023](working-papers/From_Mating_Gap_to_Fertility_Gap.pdf)** -- Uses U.S. Census ACS data (2013–2023) to decompose fertility-rate changes among college-educated women by age and education level, isolating how much is driven by marriage-market sex-ratio mismatches versus hypergamy versus other factors. (December 2025)
+
   - **[Zipf in Germany over time](working-papers/Zipf_in_Germany_over_time.pdf)** -- Uses historical German city-population data across periods of division and reunification to test whether Zipf's law coefficients track a country's economic integration, as Batty et al. (2012) theorize. (August 2015)
 
 ## Research
