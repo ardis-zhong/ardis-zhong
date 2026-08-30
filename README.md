@@ -32,7 +32,7 @@ _Coming soon._
   Add the PDF itself to the working-papers/ folder in this repo, then link to it
   exactly like the state-to-congress-legislators dataset link below.
 -->
-_Coming soon._
+  - **[Zipf in Germany over time](working-papers/filename.pdf)** -- one-line description of the paper. (August 2015)
 
 ## Research
 
