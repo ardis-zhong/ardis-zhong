@@ -7,8 +7,6 @@ I'm a Masters student in the [Department of Political Science at San Diego State
 -->
 **Interests:** `Demography` · `American Politics` · `Economics` · `Research` · `Legislative Effectiveness`
 
-**Personal:** `Chow Chows` · `Cats` · `Reading` · `Writing` · `Fitness`
-
 ## Education
 
 B.A. Economics, Minor in Mathematics. University of California, Los Angeles (2016).
@@ -39,3 +37,6 @@ _Coming soon._
 ## Research
 
 - [state-to-congress-legislators](https://github.com/ardis-zhong/state-to-congress-legislators) -- linking state and federal legislative sponsorship records for U.S. legislators who served in a state legislature before or during Congress, 1979-present.
+
+**Personal:** `Reading` · `Writing` · `Fitness`
+
