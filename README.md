@@ -5,7 +5,7 @@ I'm a Masters student in the Department of Political Science at [San Diego State
   reorder freely as your interests shift. Keep each tag short (a field or method,
   not a sentence). Separate with " · " so the line stays scannable.
 -->
-**Interests:** `tag one` · `tag two` · `tag three`
+**Interests:** `Demography` · `American Politics` · `Economics` · `Writing`
 
 ## Working Papers
 
@@ -17,7 +17,7 @@ I'm a Masters student in the Department of Political Science at [San Diego State
   Add the PDF itself to the working-papers/ folder in this repo, then link to it
   exactly like the state-to-congress-legislators dataset link below.
 -->
-_Working papers coming soon._
+_Coming soon._
 
 ## CV
 
@@ -28,7 +28,7 @@ _Working papers coming soon._
 
   [View my CV](cv/Ardis_Zhong_CV.pdf)
 -->
-_CV coming soon._
+_Coming soon._
 
 ## Research
 
