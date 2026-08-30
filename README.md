@@ -19,6 +19,10 @@ I'm a Masters student in the [Department of Political Science at San Diego State
 -->
 _Coming soon._
 
+## Education
+
+_B.A. Economics, Minor in Mathematics. University of California, Los Angeles (2016)._
+
 ## CV
 
 <!--
