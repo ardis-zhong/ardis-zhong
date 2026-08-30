@@ -11,9 +11,10 @@ I'm a Masters student in the [Department of Political Science at San Diego State
 
 B.A. Economics, Minor in Mathematics. University of California, Los Angeles (2016).
 
+<!-- 
+
 ## CV
 
-<!--
   Add your CV as a PDF to the cv/ folder in this repo (e.g. cv/Ardis_Zhong_CV.pdf),
   then uncomment and fix the line below. GitHub renders PDFs in-browser when clicked,
   with a download button, so no extra hosting is needed.
