@@ -32,7 +32,7 @@ _Coming soon._
   Add the PDF itself to the working-papers/ folder in this repo, then link to it
   exactly like the state-to-congress-legislators dataset link below.
 -->
-  - **[Zipf in Germany over time](working-papers/filename.pdf)** -- one-line description of the paper. (August 2015)
+  - **[Zipf in Germany over time](working-papers/Zipf in Germany over time.pdf)** -- Uses historical German city-population data across periods of division and reunification to test whether Zipf's law coefficients track a country's economic integration, as Batty et al. (2012) theorize. (August 2015)
 
 ## Research
 
