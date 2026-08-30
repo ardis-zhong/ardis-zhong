@@ -7,18 +7,6 @@ I'm a Masters student in the [Department of Political Science at San Diego State
 -->
 **Interests:** `Demography` · `American Politics` · `Economics` · `Writing` · `Legislative Effectiveness`
 
-## Working Papers
-
-<!--
-  One entry per paper, in this format:
-
-  - **[Paper Title](working-papers/filename.pdf)** -- one-line description of the paper. (Month Year)
-
-  Add the PDF itself to the working-papers/ folder in this repo, then link to it
-  exactly like the state-to-congress-legislators dataset link below.
--->
-_Coming soon._
-
 ## Education
 
 B.A. Economics, Minor in Mathematics. University of California, Los Angeles (2016).
@@ -31,6 +19,18 @@ B.A. Economics, Minor in Mathematics. University of California, Los Angeles (201
   with a download button, so no extra hosting is needed.
 
   [View my CV](cv/Ardis_Zhong_CV.pdf)
+-->
+_Coming soon._
+
+## Working Papers
+
+<!--
+  One entry per paper, in this format:
+
+  - **[Paper Title](working-papers/filename.pdf)** -- one-line description of the paper. (Month Year)
+
+  Add the PDF itself to the working-papers/ folder in this repo, then link to it
+  exactly like the state-to-congress-legislators dataset link below.
 -->
 _Coming soon._
 
