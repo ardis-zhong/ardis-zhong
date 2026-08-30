@@ -1,4 +1,4 @@
-I'm a Masters student in the [Department of Political Science](https://politicalscience.sdsu.edu) at San Diego State University (SDSU).
+I'm a Masters student in the [Department of Political Science at San Diego State University](https://politicalscience.sdsu.edu).
 
 <!--
   Interests, as a flat tag list rather than a written agenda -- add, remove, or
