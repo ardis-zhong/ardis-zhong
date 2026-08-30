@@ -5,7 +5,8 @@ I'm a Masters student in the [Department of Political Science at San Diego State
   reorder freely as your interests shift. Keep each tag short (a field or method,
   not a sentence). Separate with " · " so the line stays scannable.
 -->
-**Interests:** `Demography` · `American Politics` · `Economics` · `Writing` · `Legislative Effectiveness`
+**Interests:** `Demography` · `American Politics` · `Economics` · `Research` · `Legislative Effectiveness`
+**Personal:** `Chow Chows` · `Cats` · `Reading` · `Writing` · `Fitness`
 
 ## Education
 
